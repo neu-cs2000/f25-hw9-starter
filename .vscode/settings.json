@@ -5,3 +5,9 @@
     },
 
 }
+
+{
+    "workbench.editorAssociations": {
+        "{git}:/**/*.{arr}": "default"
+    }
+}
