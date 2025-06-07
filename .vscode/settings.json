@@ -3,10 +3,6 @@
         ".devcontainer": true,
         ".vscode": true
     },
-
-}
-
-{
     "workbench.editorAssociations": {
         "{git}:/**/*.{arr}": "default"
     }
