@@ -40,7 +40,7 @@ jobs:
           path: submission
 
       - name: Collect Submission and Run Grader
-        uses: pawtograder/assignment-action@main
+        uses: pawtograder/assignment-action@pyret
         with:
           grading_server: 'https://api.pawtograder.com'
           handout_repo: 'neu-cs2000/fa25-hw9-starter'
